@@ -7,7 +7,7 @@
 
 - 🔭 Currently building at **[KnowAll AI](https://github.com/knowall-ai)**
 - ⚡ Working with **TypeScript, Azure DevOps, Dynamics 365 & AI Agents**
-- ₿ Passionate about **Bitcoin, Lightning Network & microtransactions**
+- ₿ Contributing to **Bitcoin, Lightning Network & microtransactions**
 - 📖 Contributing to **[T-Minus-15](https://github.com/T-Minus-15/book)** — Secrets of an Elite DevOps Team
 
 * * *
