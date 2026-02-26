@@ -33,7 +33,7 @@
 
 - ⏱️ **[Thyme](https://github.com/knowall-ai/thyme)** — Modern time tracking app integrated with Microsoft Dynamics 365 Business Central ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square)
 - 🎫 **[ZapDesk](https://github.com/knowall-ai/zapdesk)** — Zendesk-style support ticketing portal powered by Azure DevOps ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square)
-- ⚡ **[Zapp.ie](https://github.com/knowall-ai/zaplie-bot)** — Microsoft Teams + Bitcoin microtransactions + AI agents for collaboration & rewards ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square)
+- ⚡ **[Zapl.ie](https://github.com/knowall-ai/zaplie-bot)** — Microsoft Teams + Bitcoin microtransactions + AI agents for collaboration & rewards ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square)
 - 🔌 **[MCP Business Central](https://github.com/knowall-ai/mcp-business-central)** — MCP server for Microsoft Dynamics 365 Business Central ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)
 - 📝 **[Sallie OpenClaw](https://github.com/knowall-ai/sallie-openclaw)** — Proposal generator skill for DevOps Epic to ADOC/PDF workflows ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square)
 
@@ -56,7 +56,7 @@
 - 📕 **[T-Minus-15](https://github.com/EdiWeeks/T-Minus-15)** — Contributing to "Secrets of an Elite DevOps Team" ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
 - 🤖 **[Alice for Accounts](https://github.com/EirEvo/AliceForAccounts)** — Invoice processing demo built on Bot Framework ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square)
 - 🌐 **[EdiWeeks.github.io](https://github.com/EdiWeeks/EdiWeeks.github.io)** — Personal website ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square)
-- 📚 **[Zapl.ie Wiki](https://github.com/EdiWeeks/Zapp.ie.wiki-fork)** — Documentation for the Zapl.ie platform
+- 📚 **[Zapp.ie Wiki](https://github.com/EdiWeeks/Zapp.ie.wiki-fork)** — Documentation for the Zapp.ie platform
 
 <!--
 * * *
