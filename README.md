@@ -1,7 +1,5 @@
-[![GitHub followers](https://img.shields.io/github/followers/EdiWeeks?style=social)](https://github.com/EdiWeeks)
-[![Profile Views](https://komarev.com/ghpvc/?username=EdiWeeks&color=blueviolet&style=flat-square)](https://github.com/EdiWeeks)
-
-> *"The best error message is the one that never shows up."* — Thomas Fuchs
+### *"The best error message is the one that never shows up."*
+**— Thomas Fuchs**
 
 * * *
 
