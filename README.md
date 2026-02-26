@@ -79,6 +79,7 @@
 | 🌐 [**EdiWeeks.github.io**](https://github.com/EdiWeeks/EdiWeeks.github.io) | Personal website | `HTML` |
 | 📚 [**Zapp.ie Wiki**](https://github.com/EdiWeeks/Zapp.ie.wiki-fork) | Documentation for the Zapp.ie platform | — |
 
+<!--
 * * *
 
 ## 📊 GitHub Stats
@@ -91,6 +92,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=EdiWeeks&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+-->
 
 * * *
 
