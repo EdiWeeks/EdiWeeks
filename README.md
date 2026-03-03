@@ -48,6 +48,7 @@
 - 📡 **[Nostr Client](https://github.com/lnbits/nostrclient)** — Nostr client extension for LNbits ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
 - 🪙 **[Sovran](https://github.com/SovranBitcoin/Sovran)** — A mobile Cashu wallet ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square)
 - 🐷 **[Allowance](https://github.com/BenGWeeks/allowance)** — Bitcoin allowance extension for LNbits ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
+- 🦋 **[Damus](https://github.com/damus-io/damus)** — iOS Nostr client ⭐2.1k ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square)
 
 * * *
 
